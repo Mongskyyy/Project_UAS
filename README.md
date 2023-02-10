@@ -11,7 +11,7 @@ Pada pertemuan ini saya akan membuat program dengan package dan modul dengan str
 
 ## Dokumentasi
 
-Untuk dokumentasi dapat di download melalui <a href="">Dokumentasi</a>
+Untuk dokumentasi dapat di download melalui <a href="Project_UAS.pdf">Dokumentasi</a>
 
 ## Demo Program
 
